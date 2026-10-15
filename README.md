@@ -169,35 +169,6 @@ Python / Automation       ███████████████░░░
 
 ---
 
-## 📂 Repository Structure
-
-```text
-Md_Shahjada_Arefin/
-│
-├── 📁 projects/
-│   ├── SIEM & Log Analysis
-│   ├── Network Traffic Monitoring
-│   └── Cybersecurity Labs
-│
-├── 📁 certificates/
-│   └── Cybersecurity Certifications
-│
-└── 📄 README.md
-```
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=shahjadaarefin&show_icons=true&theme=github_dark&hide_border=true" height="170">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shahjadaarefin&theme=github-dark&hide_border=true" height="170">
-
-</p>
-
----
 
 ## 📫 Connect With Me
 
