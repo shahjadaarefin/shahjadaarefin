@@ -65,7 +65,7 @@ I enjoy investigating suspicious activity, analyzing security logs, identifying 
 
 ## 🛡️ Cybersecurity Projects
 
-| Project | Description | Status | |
+| Project | Description | Status | View |
 |---|---|---|---|
 | 🔐 **SIEM Implementation & Log Analysis** | Wazuh-based SOC lab for security monitoring and log analysis | ✅ Completed |  [📂 View Project](./projects/SIEM-Implementation-Log-Analysis) |
 | 🌐 **Network Traffic Monitoring & Attack Detection** | Suricata & Wireshark network monitoring and attack detection | ✅ Completed | [📂 View Project](./projects/Network-Traffic-Monitoring-Attack-Detection) |
@@ -123,10 +123,13 @@ Python / Automation       ███████████████░░░
 
 ## 🎓 Certifications
 
-| Certification                                 | Provider | Status         |
-| --------------------------------------------- | -------- | -------------- |
-| Google Cybersecurity Professional Certificate | Google   | ✅ Completed    |
-| CompTIA Security+                             | CompTIA  | 🔄 In Progress |
+| Certification                                             | Provider                 | Status         |
+| ---------------------------------------------             | --------                 | -------------  |
+| Google Cybersecurity Professional Certificate             | Google                   | ✅ Completed   |
+| AI for Cybersecurity Specialization                       | Johns Hopkins University | ✅ Completed   |
+| CompTIA Security+                                         | CompTIA                  | 🔄 In Progress |
+| Cybersecurity Operations with AI: Build an AI-Powered SOC | STARWEAVER               | 🔄 In Progress |
+
 
 ---
 
