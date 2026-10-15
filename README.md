@@ -125,7 +125,7 @@ Python / Automation       ███████████████░░░
 
 | Certification                                             | Provider                 | Status         |
 | ---------------------------------------------             | --------                 | -------------  |
-| Google Cybersecurity Professional Certificate             | Google                   | ✅ Completed   |
+| [Google Cybersecurity Professional Certificate](https://coursera.org/share/87dd21874fe0abd1a6ad70faeff5c117)             | Google                   | ✅ Completed   |
 | AI for Cybersecurity Specialization                       | Johns Hopkins University | ✅ Completed   |
 | CompTIA Security+                                         | CompTIA                  | 🔄 In Progress |
 | Cybersecurity Operations with AI: Build an AI-Powered SOC | STARWEAVER               | 🔄 In Progress |
