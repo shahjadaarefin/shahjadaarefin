@@ -94,13 +94,13 @@ Platforms include **HackerOne, Bugcrowd, and independent bug-bounty programs**.
 ## 📊 Cybersecurity Focus
 
 ```text
-Web Security              ████████████████████
-Vulnerability Analysis    ███████████████████░
-Security Monitoring       ██████████████████░░
-Log Analysis              ██████████████████░░
-Network Security          █████████████████░░░
-Incident Response         ████████████████░░░░
-Python / Automation       ███████████████░░░░░
+Web Security             
+Vulnerability Analysis    
+Security Monitoring       
+Log Analysis              
+Network Security          
+Incident Response        
+Python / Automation      
 ```
 
 ---
