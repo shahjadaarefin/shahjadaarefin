@@ -67,8 +67,8 @@ I enjoy investigating suspicious activity, analyzing security logs, identifying 
 
 | Project | Description | Status | View |
 |---|---|---|---|
-| 🔐 **SIEM Implementation & Log Analysis** | Wazuh-based SOC lab for security monitoring and log analysis | ✅ Completed |  [📂 View Project](./projects/SIEM-Implementation-Log-Analysis) |
-| 🌐 **Network Traffic Monitoring & Attack Detection** | Suricata & Wireshark network monitoring and attack detection | ✅ Completed | [📂 View Project](./projects/Network-Traffic-Monitoring-Attack-Detection) |
+| 🔐 **SIEM Implementation & Log Analysis** | Wazuh-based SOC lab for security monitoring and log analysis | ✅ Completed |  [📂 View Project](./SIEM-Implementation-Log-Analysis) |
+| 🌐 **Network Traffic Monitoring & Attack Detection** | Suricata & Wireshark network monitoring and attack detection | ✅ Completed | [📂 View Project](./Network-Traffic-Monitoring-and-Attack-Detection) |
 
 ---
 
