@@ -8,7 +8,8 @@
   </a>
   <a href="https://www.linkedin.com/in/md-shahjada-arefin">
     <img src="https://img.shields.io/badge/LinkedIn-Md%20Shahjada%20Arefin-blue?style=for-the-badge&logo=linkedin">
-  </a>
+  </a><img width="935" height="1309" alt="WhatsApp Image 2025-12-04 at 10 37 23 AM" src="https://github.com/user-attachments/assets/ff837e02-7f14-4a33-8a57-d8694279aa90" />
+
   <a href="mailto:shahjadaarefin@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
   </a>
