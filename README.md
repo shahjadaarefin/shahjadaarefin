@@ -41,6 +41,8 @@ I enjoy investigating suspicious activity, analyzing security logs, identifying 
 * Penetration Testing
 * OWASP Top 10
 * Cybersecurity Frameworks
+* Adversarial Machine Learning
+* AI-Based Security Analytics
 
 ### 🖥️ Security Tools
 
