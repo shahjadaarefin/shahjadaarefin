@@ -126,12 +126,13 @@ Python / Automation
 
 ## 🎓 Certifications
 
-| Certification                                                                                                         | Provider                 | Status         |
-| --------------------------------------------------------------------------------------------------------------------  | ------------------------ | -------------- |
-| [Google Cybersecurity Professional Certificate](https://coursera.org/share/87dd21874fe0abd1a6ad70faeff5c117)          | Google                   | ✅ Completed   |
-| [AI for Cybersecurity Specialization](https://coursera.org/share/313b02b841cb3341f618a439bd60895e)                    | Johns Hopkins University | ✅ Completed   |
-| CompTIA Security+                                                                                                     | CompTIA                  | 🔄 In Progress |
-| Cybersecurity Operations with AI: Build an AI-Powered SOC                                                             | STARWEAVER               | 🔄 In Progress |
+| Certification                                                                                                            | Provider                 | Status         |
+| ------------------------------------------------------------------------------------------------------------------------ | ------------------------ | -------------- |
+| [Google Cybersecurity Professional Certificate](https://coursera.org/share/87dd21874fe0abd1a6ad70faeff5c117)             | Google                   | ✅ Completed   |
+| [AI for Cybersecurity Specialization](https://coursera.org/share/313b02b841cb3341f618a439bd60895e)                       | Johns Hopkins University | ✅ Completed   |
+| [Cybersecurity Operations with AI: Build an AI-Powered SOC](https://coursera.org/share/0b82b9e483644bdecdbf26e1057258b3) | STARWEAVER               | ✅ Completed   |
+| CompTIA Security+                                                                                                        | CompTIA                  | 🔄 In Progress |
+
 
 
 ---
